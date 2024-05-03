@@ -38,7 +38,7 @@ def generate_story(scenario):
 def main():
     # Set Streamlit page config
     st.set_page_config(
-        page_title="Image to Audio Story",
+        page_title="Image to Audio",
         page_icon="✨",  # You can customize the icon
     )
 
