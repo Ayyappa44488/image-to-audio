@@ -1,0 +1,12 @@
+transformers #== 4.35.2
+#tiktoken == 0.4.0
+langchain
+python-dotenv #== 1.0.0
+requests
+streamlit #== 1.22.0
+gtts
+tensorflow
+torch
+google
+google.generativeai
+langchain-google-genai
